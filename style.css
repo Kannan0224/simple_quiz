@@ -1,0 +1,36 @@
+#style
+{
+    padding:22px;
+}
+.choose .btn
+{
+    margin:10px;
+    padding:5px;
+    height:40px;
+    border-radius:20px;
+    font-weight:bold;
+    outline:none;
+}
+body
+{
+    background-color:#ee8282;
+}
+
+.choose .btn:hover{
+    background-color:black;
+    color:white;
+    border:none;
+}
+.choose .btn:focus{
+    outline:none;
+}
+.modal-content
+{
+    background-color:lightblue;
+    font-weight:bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.modal-content ul{
+   text-size:12px;
+}
+
